@@ -2,27 +2,23 @@
     <img src="./static/img/logos/logo-dark.png" width="500px">
 </p>
 
-<h1 align="center">PictoMaker (deprecated)</h1>
+<h1 align="center">PictoMaker (legacy)</h1>
 <p align="center" id="badges">
-    <a href="https://github.com/mianfg/pictomaker/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mianfg/pictomaker" alt="License"></a> <a href="#"><img src="https://img.shields.io/github/languages/code-size/mianfg/pictomaker" alt="Code size"></a> <a href="https://github.com/mianfg/pictomaker/commits"><img src="https://img.shields.io/github/last-commit/mianfg/pictomaker" alt="Last commit"></a> <a href="#"><img src="https://img.shields.io/badge/status-deprecated-red" alt="More info"></a> <a href="https://go.mianfg.me/pictomaker"><img src="https://img.shields.io/badge/-more%20info-orange" alt="More info"></a>
+    <a href="https://github.com/mianfg/pictomaker/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mianfg/pictomaker" alt="License"></a> <a href="#"><img src="https://img.shields.io/github/languages/code-size/mianfg/pictomaker" alt="Code size"></a> <a href="https://github.com/mianfg/pictomaker/commits"><img src="https://img.shields.io/github/last-commit/mianfg/pictomaker" alt="Last commit"></a> <a href="#"><img src="https://img.shields.io/badge/status-legacy-red" alt="More info"></a> <a href="https://go.mianfg.me/pictomaker"><img src="https://img.shields.io/badge/-more%20info-orange" alt="More info"></a>
 </p>
 
-> Created by **Miguel Ángel Fernández Gutiérrez** · <https://mianfg.me/> 
-> 
-> **Try this app out at <https://pictomaker.mianfg.me/>!**
+> Created by **Miguel Ángel Fernández Gutiérrez** · <https://mianfg.me/>
 
 ## Introduction
 
 **PictoMaker** is a web app that translates sentences into sequences of pictograms.
 
-## ⚠️ Important notice
-
-> This version of PictoMaker is **deprecated**. You can enjoy a **new, more elegant and improved version** called [PictoMaker Lite](https://github.com/mianfg/pictomaker-lite). PictoMaker Lite is a low overhead API designed to provide basic functionality, and with more features!
-> 
-> * Better tokenization and lemmatization.
-> * More organized code.
-> * Multilanguage support!
-> 
+> [!IMPORTANT]
+> This version of PictoMaker is **deprecated** and archived. Please, check out these repos:
+>
+> * [mianfg/pictomaker](https://github.com/mianfg/pictomaker)
+> * [mianfg/pictomaker-lite](https://github.com/mianfg/pictomaker-lite)
+>
 > _The scripts provided here **lack documentation**, and some of the code may be written in a not-so-pretty way (as this was the first webapp that I ever implemented 😅). Please do not use in production. This repository has been left as-is, as I'm frankly really proud of it!_
 
 ## Features
